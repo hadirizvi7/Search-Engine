@@ -1,0 +1,7 @@
+openai
+pandas
+matplotlib
+plotly
+scipy
+scikit-learn
+fastapi
